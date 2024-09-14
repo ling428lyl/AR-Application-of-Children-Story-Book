@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Avatar Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: front_bone
+    m_Weight: 1
+  - m_Path: front_bone/front_left
+    m_Weight: 1
+  - m_Path: front_bone/front_left/front_left_1
+    m_Weight: 1
+  - m_Path: front_bone/front_left/front_left_1/front_left_2
+    m_Weight: 1
+  - m_Path: front_bone/front_right
+    m_Weight: 1
+  - m_Path: front_bone/front_right/front_right_1
+    m_Weight: 1
+  - m_Path: front_bone/front_right/front_right_1/front_right_2
+    m_Weight: 1
+  - m_Path: front_bone/rear_bone
+    m_Weight: 1
+  - m_Path: front_bone/rear_bone/rear_left
+    m_Weight: 1
+  - m_Path: front_bone/rear_bone/rear_left/rear_left_1
+    m_Weight: 1
+  - m_Path: front_bone/rear_bone/rear_left/rear_left_1/rear_left_2
+    m_Weight: 1
+  - m_Path: front_bone/rear_bone/rear_right
+    m_Weight: 1
+  - m_Path: front_bone/rear_bone/rear_right/rear_right_1
+    m_Weight: 1
+  - m_Path: front_bone/rear_bone/rear_right/rear_right_1/rear_right_2
+    m_Weight: 1
+  - m_Path: llllllll_Model_14:default1
+    m_Weight: 1
+  - m_Path: nurbsCircle1
+    m_Weight: 1
+  - m_Path: nurbsCircle1/ikHandle1
+    m_Weight: 1
+  - m_Path: nurbsCircle1/ikHandle2
+    m_Weight: 1
+  - m_Path: nurbsCircle2
+    m_Weight: 1
+  - m_Path: nurbsCircle2/ikHandle3
+    m_Weight: 1
+  - m_Path: nurbsCircle2/ikHandle4
+    m_Weight: 1
+  - m_Path: nurbsCircle4
+    m_Weight: 1
+  - m_Path: nurbsCircle4/ikHandle5
+    m_Weight: 1
+  - m_Path: nurbsCircle4/ikHandle6
+    m_Weight: 1
+  - m_Path: nurbsCircle5
+    m_Weight: 1
+  - m_Path: nurbsCircle5/ikHandle7
+    m_Weight: 1
+  - m_Path: nurbsCircle5/ikHandle8
+    m_Weight: 1
